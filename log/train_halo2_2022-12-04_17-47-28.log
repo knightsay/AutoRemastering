@@ -1,0 +1,6 @@
+2022-12-04 17:47:29,475 VGG16:to: 0
+2022-12-04 17:47:29,963 Found 54 samples.
+2022-12-04 17:47:29,964 Found 54 samples.
+2022-12-04 17:47:29,965 Found 58 images.
+2022-12-04 17:48:26,379 Saving model to data/halo2/checkpoints/pfd2cs-0-break.
+2022-12-04 17:48:26,694 Unexpected error: <class 'RuntimeError'>

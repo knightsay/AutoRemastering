@@ -1,0 +1,6 @@
+2022-12-04 11:02:39,779 VGG16:to: 0
+2022-12-04 11:02:40,265 Found 54 samples.
+2022-12-04 11:02:40,266 Found 54 samples.
+2022-12-04 11:02:40,267 Found 58 images.
+2022-12-04 11:03:05,207 Saving model to data/halo2/checkpoints/pfd2cs-0-break.
+2022-12-04 11:03:05,905 Unexpected error: <class 'ValueError'>
